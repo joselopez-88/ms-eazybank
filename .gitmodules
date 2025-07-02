@@ -1,9 +1,9 @@
 [submodule "accounts"]
 	path = accounts
-	url = git@github-jl:joselopez-88/accounts.git
+	url = git@github.com:joselopez-88/accounts.git
 [submodule "loans"]
 	path = loans
-	url = git@github-jl:joselopez-88/loans.git
+	url = git@github.com:joselopez-88/loans.git
 [submodule "cards"]
 	path = cards
-	url = git@github-jl:joselopez-88/cards.git
+	url = git@github.com:joselopez-88/cards.git
