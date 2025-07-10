@@ -7,3 +7,6 @@
 [submodule "cards"]
 	path = cards
 	url = git@github.com:joselopez-88/cards.git
+[submodule "configserver"]
+	path = configserver
+	url = git@github.com:joselopez-88/configserver.git
