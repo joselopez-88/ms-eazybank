@@ -10,3 +10,6 @@
 [submodule "configserver"]
 	path = configserver
 	url = git@github.com:joselopez-88/configserver.git
+[submodule "eazybytes-config"]
+	path = eazybytes-config
+	url = git@github.com:joselopez-88/eazybytes-config.git
