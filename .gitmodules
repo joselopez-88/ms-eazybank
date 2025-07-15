@@ -13,3 +13,6 @@
 [submodule "eazybytes-config"]
 	path = eazybytes-config
 	url = git@github.com:joselopez-88/eazybytes-config.git
+[submodule "docker-compose"]
+	path = docker-compose
+	url = git@github.com:joselopez-88/docker-compose.git
