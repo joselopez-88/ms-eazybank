@@ -16,3 +16,6 @@
 [submodule "docker-compose"]
 	path = docker-compose
 	url = git@github.com:joselopez-88/docker-compose.git
+[submodule "eurekaserver"]
+	path = eurekaserver
+	url = git@github.com:joselopez-88/eurekaserver.git
