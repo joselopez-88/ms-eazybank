@@ -19,3 +19,6 @@
 [submodule "eurekaserver"]
 	path = eurekaserver
 	url = git@github.com:joselopez-88/eurekaserver.git
+[submodule "gatewayserver"]
+	path = gatewayserver
+	url = git@github.com:joselopez-88/gatewayserver.git
