@@ -22,3 +22,6 @@
 [submodule "gatewayserver"]
 	path = gatewayserver
 	url = git@github.com:joselopez-88/gatewayserver.git
+[submodule "message"]
+	path = message
+	url = git@github.com:joselopez-88/message.git
